@@ -346,10 +346,12 @@ h1{
 
 }
 .working-items .fa-solid{
+    overflow: hidden;
+    
     color: white;
     background-color: #FC2947;
     font-size: 25px;
-    padding: 18px;
+    padding: 20px;
     
 }
 .working-items h4{
