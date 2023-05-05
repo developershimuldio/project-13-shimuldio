@@ -196,14 +196,14 @@ h1{
     left: 47%;
     top: 89%;
     background-color: #FC2947;
-    width: 104px;
+    width: 7%;
     height: 3px;
 }
 .skill-head h3::after {
     position: absolute;
     content: '';
     left: 50%;
-    top: 83%;
+    bottom: 3%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -269,14 +269,14 @@ h1{
     left: 47%;
     top: 89%;
     background-color: #FC2947;
-    width: 104px;
+    width: 7%;
     height: 3px;
 }
 .project-head h3::after {
     position: absolute;
     content: '';
     left: 50%;
-    top: 83%;
+    bottom: 3%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -317,14 +317,14 @@ h1{
     left: 47%;
     top: 89%;
     background-color: #FC2947;
-    width: 104px;
+    width: 7%;
     height: 3px;
 }
 .working-head h3::after {
     position: absolute;
     content: '';
     left: 50%;
-    top: 83%;
+    bottom: 3%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -380,14 +380,14 @@ h1{
     left: 47%;
     top: 89%;
     background-color: #FC2947;
-    width: 104px;
+    width: 7%;
     height: 3px;
 }
 .me-head h3::after {
     position: absolute;
     content: '';
     left: 50%;
-    top: 83%;
+    bottom: 3%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -408,8 +408,9 @@ h1{
     background-color: #FC2947;
     width: 3px;
     height: 98%;
-    top: 1%;
+    top: 50%;
     left: 50%;
+    transform: translate(-50%, -50%);
 }
 .me-item span{
     color: #FC2947;
@@ -437,7 +438,8 @@ h1{
     height: 20px;
     border-radius: 50%;
     top: 82px;
-    left: 107.5%;
+    left: 109%;
+    transform: translate(-50%, -50% );
 }
 .me-item2{
     width: 46%;
@@ -456,7 +458,8 @@ h1{
     height: 20px;
     border-radius: 50%;
     top: 82px;
-    right: 109.2%;
+    left: -11.4%;
+    transform: translate(-50%, -50% );
 }
 .me-item3{
     width: 46%;
@@ -475,7 +478,8 @@ h1{
     height: 20px;
     border-radius: 50%;
     top: 82px;
-    left: 107.5%;
+    left: 109%;
+    transform: translate(-50%, -50% );
 }
 .me-item4{
     width: 46%;
@@ -494,7 +498,8 @@ h1{
     height: 20px;
     border-radius: 50%;
     top: 82px;
-    right: 109.2%;
+    left: -11.4%;
+    transform: translate(-50%, -50% );
 }
 /* client say */
 #client{
@@ -517,14 +522,14 @@ h1{
     left: 47%;
     top: 89%;
     background-color: #FC2947;
-    width: 104px;
+    width: 7%;
     height: 3px;
 }
 .client-head h3::after {
     position: absolute;
     content: '';
     left: 50%;
-    top: 83%;
+    bottom: 3%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -599,14 +604,14 @@ h1{
     left: 47%;
     top: 89%;
     background-color: #FC2947;
-    width: 104px;
+    width: 7%;
     height: 3px;
 }
 .price-head h3::after {
     position: absolute;
     content: '';
     left: 50%;
-    top: 83%;
+    bottom: 3%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -679,14 +684,14 @@ h1{
     left: 47%;
     top: 89%;
     background-color: #FC2947;
-    width: 104px;
+    width: 7%;
     height: 3px;
 }
 .team-head h3::after {
     position: absolute;
     content: '';
     left: 50%;
-    top: 83%;
+    bottom: 3%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -726,14 +731,14 @@ h1{
     left: 47%;
     top: 89%;
     background-color: #FC2947;
-    width: 104px;
+    width: 7%;
     height: 3px;
 }
 .article-head h3::after {
     position: absolute;
     content: '';
     left: 50%;
-    top: 83%;
+    bottom: 3%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -868,14 +873,14 @@ h1{
     left: 47%;
     top: 89%;
     background-color: #FC2947;
-    width: 104px;
+    width: 7%;
     height: 3px;
 }
 .contact-head h3::after {
     position: absolute;
     content: '';
     left: 50%;
-    top: 83%;
+    bottom: 3%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
