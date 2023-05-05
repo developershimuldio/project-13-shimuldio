@@ -193,8 +193,8 @@ h1{
 .skill-head h3::before {
     position: absolute;
     content: '';
-    left: 665px;
-    top: 90px;
+    left: 47%;
+    top: 89%;
     background-color: #FC2947;
     width: 104px;
     height: 3px;
@@ -202,8 +202,8 @@ h1{
 .skill-head h3::after {
     position: absolute;
     content: '';
-    left: 709px;
-    top: 84px;
+    left: 50%;
+    top: 83%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -266,8 +266,8 @@ h1{
 .project-head h3::before {
     position: absolute;
     content: '';
-    left: 665px;
-    top: 90px;
+    left: 47%;
+    top: 89%;
     background-color: #FC2947;
     width: 104px;
     height: 3px;
@@ -275,8 +275,8 @@ h1{
 .project-head h3::after {
     position: absolute;
     content: '';
-    left: 709px;
-    top: 84px;
+    left: 50%;
+    top: 83%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -314,8 +314,8 @@ h1{
 .working-head h3::before {
     position: absolute;
     content: '';
-    left: 665px;
-    top: 90px;
+    left: 47%;
+    top: 89%;
     background-color: #FC2947;
     width: 104px;
     height: 3px;
@@ -323,8 +323,8 @@ h1{
 .working-head h3::after {
     position: absolute;
     content: '';
-    left: 709px;
-    top: 84px;
+    left: 50%;
+    top: 83%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -377,8 +377,8 @@ h1{
 .me-head h3::before {
     position: absolute;
     content: '';
-    left: 665px;
-    top: 90px;
+    left: 47%;
+    top: 89%;
     background-color: #FC2947;
     width: 104px;
     height: 3px;
@@ -386,8 +386,8 @@ h1{
 .me-head h3::after {
     position: absolute;
     content: '';
-    left: 709px;
-    top: 84px;
+    left: 50%;
+    top: 83%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -407,8 +407,8 @@ h1{
     position: absolute;
     background-color: #FC2947;
     width: 3px;
-    height: 702px;
-    top: -1px;
+    height: 98%;
+    top: 1%;
     left: 50%;
 }
 .me-item span{
@@ -437,7 +437,7 @@ h1{
     height: 20px;
     border-radius: 50%;
     top: 82px;
-    left: 598px;
+    left: 107.5%;
 }
 .me-item2{
     width: 46%;
@@ -456,7 +456,7 @@ h1{
     height: 20px;
     border-radius: 50%;
     top: 82px;
-    left: -71px;
+    right: 109.2%;
 }
 .me-item3{
     width: 46%;
@@ -475,7 +475,7 @@ h1{
     height: 20px;
     border-radius: 50%;
     top: 82px;
-    left: 598px;
+    left: 107.5%;
 }
 .me-item4{
     width: 46%;
@@ -494,7 +494,7 @@ h1{
     height: 20px;
     border-radius: 50%;
     top: 82px;
-    left: -71px;
+    right: 109.2%;
 }
 /* client say */
 #client{
@@ -514,8 +514,8 @@ h1{
 .client-head h3::before {
     position: absolute;
     content: '';
-    left: 665px;
-    top: 90px;
+    left: 47%;
+    top: 89%;
     background-color: #FC2947;
     width: 104px;
     height: 3px;
@@ -523,8 +523,8 @@ h1{
 .client-head h3::after {
     position: absolute;
     content: '';
-    left: 709px;
-    top: 84px;
+    left: 50%;
+    top: 83%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -596,8 +596,8 @@ h1{
 .price-head h3::before {
     position: absolute;
     content: '';
-    left: 665px;
-    top: 90px;
+    left: 47%;
+    top: 89%;
     background-color: #FC2947;
     width: 104px;
     height: 3px;
@@ -605,8 +605,8 @@ h1{
 .price-head h3::after {
     position: absolute;
     content: '';
-    left: 709px;
-    top: 84px;
+    left: 50%;
+    top: 83%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -676,8 +676,8 @@ h1{
 .team-head h3::before {
     position: absolute;
     content: '';
-    left: 665px;
-    top: 90px;
+    left: 47%;
+    top: 89%;
     background-color: #FC2947;
     width: 104px;
     height: 3px;
@@ -685,8 +685,8 @@ h1{
 .team-head h3::after {
     position: absolute;
     content: '';
-    left: 709px;
-    top: 84px;
+    left: 50%;
+    top: 83%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -723,8 +723,8 @@ h1{
 .article-head h3::before {
     position: absolute;
     content: '';
-    left: 665px;
-    top: 90px;
+    left: 47%;
+    top: 89%;
     background-color: #FC2947;
     width: 104px;
     height: 3px;
@@ -732,8 +732,8 @@ h1{
 .article-head h3::after {
     position: absolute;
     content: '';
-    left: 709px;
-    top: 84px;
+    left: 50%;
+    top: 83%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
@@ -865,8 +865,8 @@ h1{
 .contact-head h3::before {
     position: absolute;
     content: '';
-    left: 665px;
-    top: 90px;
+    left: 47%;
+    top: 89%;
     background-color: #FC2947;
     width: 104px;
     height: 3px;
@@ -874,8 +874,8 @@ h1{
 .contact-head h3::after {
     position: absolute;
     content: '';
-    left: 709px;
-    top: 84px;
+    left: 50%;
+    top: 83%;
     background-color: #FC2947;
     width: 15px;
     height: 15px;
